@@ -37,7 +37,7 @@ This project demonstrates how to deploy a static website on an AWS EC2 instance 
 ![Nginx](screenshots/install%20Nginx.png)
 
 ### Deploy website
-![Website](screenshots/deploy%website.png)
+![Website](screenshots/deploy%20website.png)
 
 ### Website Live
 ![Website](screenshots/website%20live.png)
